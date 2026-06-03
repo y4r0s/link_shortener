@@ -29,5 +29,5 @@ python main.py
 
 Для проверки корректности работы алгоритма выполните команду:
 ```bash
-python main.py
+python test_shortener.py
 ```
